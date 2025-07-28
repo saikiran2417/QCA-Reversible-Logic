@@ -56,7 +56,6 @@ The `.qca` files match the design screenshots shown in the `VLSI.pdf`. Each layo
 
 ## 👨‍💻 Contributors
 - **Gugulothu Sai Kiran** – Indian Institute of Information Technology, Sri City  
-- *(Add additional team members if applicable)*
 
 ---
 
