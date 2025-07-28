@@ -21,19 +21,21 @@ To design and simulate logic gates using QCA with:
 
 ---
 
-## 📂 Project Files
+## 📁 Project Files
 
-| File Name              | Circuit Functionality                          |
-|------------------------|-----------------------------------------------|
-| `PROJECT_1Q.qca`        | **F = AB + BC + CA**                          |
-| `PROECT_2Q.qca`         | **F1 = A’B’ + B’C’ + A’C’**                    |
-| `PROECT_3Q.qca`         | **F2 = AB + BC + AC**                         |
-| `PROECT_4Q.qca`         | **Reversible NAND-Based Universal Gate**      |
-| `PROJECT_5Q_Final.qca`  | **Reversible NOR-Based Gate with Testability**|
-| `VLSI.pdf`              | Documentation with truth tables, layout images, and explanation
-
+| File Name                 | Circuit Functionality                          |
+|---------------------------|-----------------------------------------------|
+| `PROJECT_1Q.qca`          | **F = AB + BC + CA**                          |
+| `PROECT_2Q.qca`           | **F1 = A’B’ + B’C’ + A’C’**                    |
+| `PROECT_3Q.qca`           | **F2 = AB + BC + AC**                         |
+| `PROECT_4Q.qca`           | **Reversible NAND-Based Universal Gate**      |
+| `PROJECT_5Q_Final.qca`    | **Reversible NOR-Based Gate with Testability**|
+| `VLSI.pdf`                | Final project documentation                   |
+| `QCA RE-SEARCH PAPER.pdf` | Reference paper for logic design methodology  |
 
 ---
+
+
 
 ## 📸 Layout Snapshots
 The `.qca` files match the design screenshots shown in the `VLSI.pdf`. Each layout was verified for:
